@@ -1,188 +1,348 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm **Ashmit Senapati**
+<!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%7C+Full+Stack+Developer;Building+Projects+That+Matter;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Ashmit%20Senapati&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Computer%20Science%20Engineering%20Student%20|%20AI%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Ashmit Senapati
+</h1>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&color=7F5AF0&lines=Computer+Science+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;Building+Impactful+Projects;Always+Learning+Something+New"/>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/AshmitSenapati"><img src="https://img.shields.io/badge/GitHub-AshmitSenapati-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:senapatiashmit2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ashmit-senapati-368b5a289"><img src="https://img.shields.io/badge/LinkedIn-Ashmit%20Senapati-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+
+<a href="mailto:senapatiashmit2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashmit-senapati-368b5a289">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AshmitSenapati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 🌌 About Me
 
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 🎓 Computer Science Engineering student at **VIT Vellore**
 
-💡 Passionate about **Artificial Intelligence**, **Technology**, and **building impactful projects**.
+💡 Passionate about **Artificial Intelligence**, **Technology**, and building impactful software solutions.
 
-🚀 I enjoy turning ideas into real-world applications through modern technologies and continuously improving my development skills.
+🚀 I enjoy transforming innovative ideas into real-world applications using modern technologies.
 
-🌱 **Always ready to learn something new.**
+🌱 Constantly learning, experimenting, and improving my skills through projects, hackathons, and continuous exploration.
+
+🎯 Interested in:
+- Artificial Intelligence
+- Full Stack Development
+- Modern Web Technologies
+- Software Development
+- Open Source
+
+<br clear="right"/>
 
 ---
 
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,nextjs,nodejs,git&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🌱 Currently Learning
+
+- Artificial Intelligence
+- Next.js
+- Backend Development
+- Modern Software Architecture
+- Open Source Collaboration
+
+</td>
+
+<td width="50%">
+
+### 🚀 Currently Building
+
+- 🤖 AI Applications
+
+- 🌍 Real-time Communication Platforms
+
+- 💻 Full Stack Projects
+
+- 🎮 Interactive Software
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Developer Mindset
+
+```text
+💡 Learn continuously.
+⚡ Build consistently.
+🚀 Solve real-world problems.
+🌍 Create technology with impact.
+```
+
+---
 # 🚀 Featured Projects
 
-## 🌍 CommUnique *(Contributor)*
+<div align="center">
 
-A real-time multilingual communication platform designed to make conversations seamless across different languages.
+<table>
 
-### Highlights
+<tr>
 
-* 🌐 Live speech translation
-* 🔊 Automatic voice playback
-* 👥 Multi-user communication
-* ⚡ Real-time experience
+<td width="50%" valign="top">
 
-🔗 Repository:
-https://github.com/ojasjog/communique_
+<h3>🌍 CommUnique</h3>
 
----
+<b>Real-Time Multilingual Communication Platform</b>
 
-## 🤖 SpeakSphere
+Contributor to a platform that enables seamless communication through real-time speech translation, automatic voice playback, and multi-user connectivity.
 
-An AI-powered chatbot designed to assist VIT students with campus-related information through an interactive and user-friendly interface.
+<br><br>
 
-### Highlights
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
-* 🎙️ Voice interaction
-* 💬 Chat history
-* ⚡ Streaming responses
-* 🔍 Intelligent search
-* 🏫 Campus assistance
+<br><br>
 
-🔗 Repository:
-https://github.com/AshmitSenapati/SpeakSphere
+<a href="https://github.com/ojasjog/communique_">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+</td>
 
-## 🎮 Chrono Misfire
+<td width="50%" valign="top">
 
-A game built around a unique time-based mechanic where gameplay dynamically changes based on player performance.
+<h3>🤖 SpeakSphere</h3>
 
-### Highlights
+<b>AI-Powered VIT Assistant</b>
 
-* ⏱️ Dynamic time mechanics
-* 🎯 Collision-based gameplay
-* 📈 Progressive difficulty
-* 🎮 Smooth game experience
+An intelligent chatbot developed to assist VIT students through voice interaction, streaming responses, campus information, and an intuitive interface.
 
-🔗 Repository:
-https://github.com/AshmitSenapati/chrono-misfire
+<br><br>
 
----
+<img src="https://img.shields.io/badge/AI-7F5AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
-## 🌾 Kisaan Vikaas
+<br><br>
 
-A digital solution developed to empower farmers by providing accessible technology for agricultural needs.
+<a href="https://github.com/AshmitSenapati/SpeakSphere">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
-🏆 **Top 10 Project – Atal Tinkering Marathon**
+</td>
 
----
+</tr>
 
-## 🩺 Medical Examination Machine
+<tr>
 
-A compact healthcare device capable of measuring pulse rate and body temperature, with support for integrating a sphygmomanometer for blood pressure monitoring.
+<td width="50%" valign="top">
 
----
+<h3>🎮 Chrono Misfire</h3>
 
-# 🛠️ Tech Stack
+<b>Time-Based Game</b>
 
-### Languages
+An interactive game where time dynamically changes according to gameplay, introducing progressive difficulty and strategic mechanics.
 
-* Java
-* Python
-* C
-* C++
-* JavaScript
+<br><br>
 
-### Frameworks & Runtime
+<img src="https://img.shields.io/badge/Game_Development-7F5AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-* Next.js
-* Node.js
+<br><br>
 
-### Database
+<a href="https://github.com/AshmitSenapati/chrono-misfire">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
-* SQL
+</td>
 
-### Tools
+<td width="50%" valign="top">
 
-* Git
-* GitHub
+<h3>🌾 Kisaan Vikaas</h3>
+
+<b>AgriTech Initiative</b>
+
+A digital platform developed to empower farmers through accessible technology and innovative agricultural solutions.
+
+🏆 <b>Top 10 — Atal Tinkering Marathon</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<h3>🩺 Medical Examination Machine</h3>
+
+A compact healthcare device capable of monitoring pulse rate and body temperature, with support for integrating a sphygmomanometer for blood pressure measurement.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
 # 🏆 Achievements
 
-* 🏅 Top 10 – Atal Tinkering Marathon
-* 🥇 Multiple Olympiad Medalist
-* 🔬 Assistant Director of Research – SAI TED
-* 💼 SPARC Internship
-* 💼 BATOI Internship
+<div align="center">
+
+| Achievement | Recognition |
+|:-----------:|:-----------|
+| 🏅 Atal Tinkering Marathon | Top 10 Project |
+| 🥇 Olympiads | Multiple Gold & Distinction Medals |
+| 🔬 SAI TED | Assistant Director of Research |
+| 💼 SPARC | GIS & Geospatial Technology Internship |
+| ☁️ BATOI | Cloudspace & Business Operations Internship |
+
+</div>
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
-> *(Replace `AshmitSenapati` only if your username changes.)*
+<p align="center">
 
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshmitSenapati&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshmitSenapati&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AshmitSenapati&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitSenapati&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitSenapati&layout=compact&theme=tokyonight&hide_border=true)
-```
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AshmitSenapati&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AshmitSenapati&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmitSenapati&theme=tokyo-night"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:senapatiashmit2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashmit-senapati-368b5a289">
+<img src="https://img.shields.io/badge/LinkedIn-Ashmit%20Senapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AshmitSenapati">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 🏅 GitHub Trophies
-
-```markdown
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AshmitSenapati&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-```
-
----
-
-# 📊 Contribution Graph
-
-```markdown
-[![Ashmit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshmitSenapati&theme=tokyo-night)](https://github.com/AshmitSenapati)
-```
-
----
-
-# 💭 Developer Quote
-
-```markdown
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-```
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** [senapatiashmit2007@gmail.com](mailto:senapatiashmit2007@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/ashmit-senapati-368b5a289
-
-🐙 **GitHub:** https://github.com/AshmitSenapati
-
----
-
-# 💫 Personal Motto
-
-> **"Passionate about AI, technology, and building impactful projects, always ready to learn something new."**
-
----
+# 💭 A Quote I Believe In
 
 <div align="center">
 
-### ⭐ *Thanks for visiting my profile!*
+> **"Technology is most powerful when it empowers people."**
 
-*"Code. Learn. Build. Repeat."*
+</div>
+
+---
+
+# ⚡ Beyond Coding
+
+<div align="center">
+
+🎯 Solving Real-World Problems
+
+🤖 Exploring Artificial Intelligence
+
+🌐 Building Full Stack Applications
+
+🚀 Learning Emerging Technologies
+
+🏆 Participating in Hackathons & Competitions
+
+</div>
+
+---
+
+# 📌 Profile Highlights
+
+<div align="center">
+
+| 🎓 Education | 💻 Interests | 🚀 Goal |
+|:------------:|:------------:|:-------:|
+| VIT Vellore | AI • Full Stack • Software Development | Build impactful technology |
+
+</div>
+
+---
+
+# 🌌 Thank You For Visiting!
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
