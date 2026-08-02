@@ -8,25 +8,10 @@ Hi 👋 I'm Ashmit Senapati
 
 </p>
 
-<p align="center">
-
-<a href="mailto:senapatiashmit2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashmit-senapati-368b5a289">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AshmitSenapati">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
 ---
-
-# 🌌 About Me
+<h2 align="left">
+  👨‍💻 About Me
+</h2>
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
@@ -49,7 +34,9 @@ Hi 👋 I'm Ashmit Senapati
 
 ---
 
-# 💻 Tech Stack
+<h2 align="left">
+  🛠️ Tech Stack
+</h2>
 
 <p align="center">
 
@@ -65,7 +52,9 @@ Hi 👋 I'm Ashmit Senapati
 
 ---
 
-# 🚀 Current Focus
+<h2 align="left">
+  🎯 Current Focus
+</h2>
 
 <table>
 
@@ -102,7 +91,11 @@ Hi 👋 I'm Ashmit Senapati
 </table>
 
 ---
-# 🚀 Featured Projects
+
+
+<h2 align="left">
+  📂 Featured Projects
+</h2>
 
 <div align="center">
 
@@ -209,7 +202,11 @@ A compact healthcare device capable of monitoring pulse rate and body temperatur
 
 ---
 
-# 📊 GitHub Analytics
+
+<h2 align="left">
+  📈 GitHub Analytics
+</h2
+
 
 <p align="center">
 
@@ -244,7 +241,10 @@ A compact healthcare device capable of monitoring pulse rate and body temperatur
 </p>
 
 ---
-# 🤝 Connect With Me
+
+<h2 align="left">
+  📬 Connect With Me
+</h2
 
 <p align="center">
 
@@ -262,7 +262,9 @@ A compact healthcare device capable of monitoring pulse rate and body temperatur
 
 </p>
 
-# 🌌 Thank You For Visiting!
+<h2 align="left">
+  ✨ Thank You For Visiting!
+</h2
 
 <div align="center">
 
