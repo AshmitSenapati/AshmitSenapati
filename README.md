@@ -209,22 +209,6 @@ A compact healthcare device capable of monitoring pulse rate and body temperatur
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Recognition |
-|:-----------:|:-----------|
-| 🏅 Atal Tinkering Marathon | Top 10 Project |
-| 🥇 Olympiads | Multiple Gold & Distinction Medals |
-| 🔬 SAI TED | Assistant Director of Research |
-| 💼 SPARC | GIS & Geospatial Technology Internship |
-| ☁️ BATOI | Cloudspace & Business Operations Internship |
-
-</div>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
