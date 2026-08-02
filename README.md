@@ -208,25 +208,14 @@ A compact healthcare device capable of monitoring pulse rate and body temperatur
 </h2
 
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshmitSenapati&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitSenapati&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
+<p align="right">
 
 <img src="https://streak-stats.demolab.com?user=AshmitSenapati&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AshmitSenapati&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
 
 <p align="center">
 
