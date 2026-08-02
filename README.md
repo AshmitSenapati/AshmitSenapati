@@ -1,9 +1,3 @@
-<!-- ========================= BANNER ========================= -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Ashmit%20Senapati&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Computer%20Science%20Engineering%20Student%20|%20AI%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
-</p>
-
 <h1 align="center">
 Hi 👋 I'm Ashmit Senapati
 </h1>
@@ -106,17 +100,6 @@ Hi 👋 I'm Ashmit Senapati
 </tr>
 
 </table>
-
----
-
-# 📈 Developer Mindset
-
-```text
-💡 Learn continuously.
-⚡ Build consistently.
-🚀 Solve real-world problems.
-🌍 Create technology with impact.
-```
 
 ---
 # 🚀 Featured Projects
@@ -294,48 +277,6 @@ A compact healthcare device capable of monitoring pulse rate and body temperatur
 </a>
 
 </p>
-
----
-
-# 💭 A Quote I Believe In
-
-<div align="center">
-
-> **"Technology is most powerful when it empowers people."**
-
-</div>
-
----
-
-# ⚡ Beyond Coding
-
-<div align="center">
-
-🎯 Solving Real-World Problems
-
-🤖 Exploring Artificial Intelligence
-
-🌐 Building Full Stack Applications
-
-🚀 Learning Emerging Technologies
-
-🏆 Participating in Hackathons & Competitions
-
-</div>
-
----
-
-# 📌 Profile Highlights
-
-<div align="center">
-
-| 🎓 Education | 💻 Interests | 🚀 Goal |
-|:------------:|:------------:|:-------:|
-| VIT Vellore | AI • Full Stack • Software Development | Build impactful technology |
-
-</div>
-
----
 
 # 🌌 Thank You For Visiting!
 
